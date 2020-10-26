@@ -7,10 +7,9 @@
   // MySql Query
   $sql = "DELETE FROM `users` WHERE `users`.`id` = $user_id";
 
-  $results = $conn->query($sql);
+  $execute = $conn->query($sql);
 
   $conn->close();
-
 ?>
 
 
