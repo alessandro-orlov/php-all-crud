@@ -22,7 +22,7 @@
   </head>
   <body>
       <div class="main-container">
-          <?php if ($results) { ?>
+          <?php if ($execute) { ?>
               <h1>Operation successfull</h1>
               <a href=" <?php echo $base_url ?>">go to main page</a>
           <?php } else { ?>

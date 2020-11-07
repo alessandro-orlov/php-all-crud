@@ -12,17 +12,20 @@ $sql = "INSERT INTO `users` (`id`, `name`, `lastname`, `created_at`, `updated_at
 
 <html>
 <head>
-    <title>User crea</title>
+    <title>User create</title>
+    <link rel="stylesheet" href="../../css/style.css">
 </head>
+<body>
+  <div class="main-container">
+    <?php if ($conn->query($sql) === TRUE) { ?>
+    <?php  echo "<h1>New record created successfully</h1>"; ?>
+    <?php echo "<a href=" . $base_url . ">Return to the main page</a>"; ?>
+    <?php } else { ?>
+      <?php echo "Error: " . $sql . "<br>" . $conn->error; ?>
+    <?php } ?>
+
+    <?php $conn->close(); ?>
+
+  </div>
+</body>
 </html>
-if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully";
-    echo '<a href=' . $base_url . '>Return to the main page</a>';
-    // header('Location: '. $base_url);
-} else {
-    echo "Error: " . $sql . "<br>" . $conn->error;
-}
-
-$conn->close();
-
-?>

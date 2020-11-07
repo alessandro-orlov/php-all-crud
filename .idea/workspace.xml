@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754f2bb4-60fb-4c4f-b36d-46a089c3e671" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env.php" beforeDir="false" afterPath="$PROJECT_DIR$/env.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/create/add-user-server.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/create/add-user-server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/create/new-user.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/create/new-user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/delete/delete-user.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/delete/delete-user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/edit/edit-user.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/edit/edit-user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/edit/server-edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/edit/server-edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/edit/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/edit/update.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/show/server-show.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/show/server-show.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/show/user-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/show/user-details.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,11 +36,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603718053352</updated>
-      <workItem from="1603718054398" duration="3703000" />
+      <workItem from="1603718054398" duration="3704000" />
+      <workItem from="1603789822686" duration="33000" />
+      <workItem from="1603789899823" duration="171000" />
+      <workItem from="1603790080798" duration="27000" />
+      <workItem from="1603790176184" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603789986632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603789986632" />
   </component>
 </project>
